@@ -1,4 +1,5 @@
-# memcache-client-forjava
+memcache-client-forjava
+========================
 
-## Doc & jar download
-[https://code.google.com/p/memcache-client-forjava/downloads/list](https://code.google.com/p/memcache-client-forjava/downloads/list])
+1. Doc & jar download
+  * [https://code.google.com/p/memcache-client-forjava/downloads/list](https://code.google.com/p/memcache-client-forjava/downloads/list])
